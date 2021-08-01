@@ -1,4 +1,4 @@
 # VimConfig
-This repository contains confiovation file for Vim editor
+This repository contains configuration file for Vim editor
 
 vim ~/.vimrc 
